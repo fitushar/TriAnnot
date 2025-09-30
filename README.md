@@ -46,3 +46,10 @@ Each candidate receives three independent annotation scores (detector agreement 
 
 **Figure. Candidate review panel for SAMPLE_0124 (68-year-old; Intgmultiomics cohort, SAMPLE_0124.nii).**
 The leftmost tile is the dataset-provided ground-truth nodule; the remaining tiles are additional candidates proposed by our pipeline. Each tile shows the axial CT slice (left) and a magnified ROI (right); the yellow square marks the candidate location. The header above each tile reports ANod (annotation-consensus score), CADx (malignancy probability), CADe (detector confidence), Lrg.ax (largest axis, mm), lobar location, and slice index. Frame color follows the cancer-risk scale shown in the bottom bar (<0.25, ≥0.25, ≥0.50, ≥0.75).
+
+## 🚀 Updates
+
+- **[1] 09/30/2025** - 📢 Created Github and Huggingface repo
+- **[2]** - 📂 Mnauscript ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange).
+- **[3]** - 📂 Public release of **19K NLST CT Annotations** ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange).
+- **[4]** - 📂 Public release of **CT RATE Validation Dataset Annotations** ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-orange).
