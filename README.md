@@ -39,3 +39,10 @@ Each candidate receives three independent annotation scores (detector agreement 
 * Morphology features from segmentation for quantitative annotation.
 * Multi-score output per candidate to enable reproducible benchmarking.
 * **plug & play** and changable modules
+
+<p align="center">
+  <img src="https://github.com/fitushar/TriAnnot/blob/main/assert/SAMPLE_0124_candidates.png" alt="SAMPLE_0124_candidates" width="1200">
+</p>
+
+**Figure. Candidate review panel for SAMPLE_0124 (68-year-old; Intgmultiomics cohort, SAMPLE_0124.nii).**
+The leftmost tile is the dataset-provided ground-truth nodule; the remaining tiles are additional candidates proposed by our pipeline. Each tile shows the axial CT slice (left) and a magnified ROI (right); the yellow square marks the candidate location. The header above each tile reports ANod (annotation-consensus score), CADx (malignancy probability), CADe (detector confidence), Lrg.ax (largest axis, mm), lobar location, and slice index. Frame color follows the cancer-risk scale shown in the bottom bar (<0.25, ≥0.25, ≥0.50, ≥0.75).
