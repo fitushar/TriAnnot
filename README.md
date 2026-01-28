@@ -1,11 +1,9 @@
-# TriAnnot
+# Tri-Reader
 
 <div align="center">
-<p align="center">
-  <img src="https://github.com/fitushar/TriAnnot/blob/main/assert/Triannot_logo.png" alt="Triannot_logo" width="500">
-</p>
 
-**Tri-stage AI-Based Annotation Consensus Framework for Lung Cancer Screening**
+
+**Tri-Reader: An Open-Access, Multi-Stage AI Pipeline for First-Pass Lung Nodule Annotation in Screening CT**
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Docker](https://img.shields.io/badge/Docker-ft42%2Fpins%3Alatest-2496ED?logo=docker)](https://hub.docker.com/r/ft42/pins)
@@ -18,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/fitushar/TriAnnot/blob/main/assert/Triannot_workflow.png" alt="Triannot_lworkflow" width="1200">
+  <img src="https://github.com/fitushar/TriAnnot/blob/main/assert/WorkflowDiagram.png" alt="Triannot_lworkflow" width="1200">
 </p>
 
 
